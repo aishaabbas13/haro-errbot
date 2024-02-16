@@ -1,0 +1,9 @@
+[Core]
+name = haro
+module = haro
+
+[Documentation]
+description = haro
+
+[Python]
+version = 3
